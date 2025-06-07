@@ -1,0 +1,47 @@
+.box-px .text-1 {
+  font-size: 16px;
+}
+
+.box-px .text-2 {
+  font-size: 8px;
+}
+
+.box-px .text-3 {
+  font-size: 32px;
+}
+
+.box-percent .text-1 {
+  font-size: 100%;
+}
+
+.box-percent .text-2 {
+  font-size: 50%;
+}
+
+.box-percent .text-3 {
+  font-size: 200%;
+}
+
+.box-em .text-1 {
+  font-size: 1em;
+}
+
+.box-em .text-2 {
+  font-size: 0.5em;
+}
+
+.box-em .text-3 {
+  font-size: 2em;
+}
+
+.box-rem .text-1 {
+  font-size: 1rem;
+}
+
+.box-rem .text-2 {
+  font-size: 0.5rem;
+}
+
+.box-rem .text-3 {
+  font-size: 2rem;
+}
